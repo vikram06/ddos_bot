@@ -1,0 +1,10 @@
+{
+  "name": "attack",
+  "version": "0.0.2",
+  "description": "Basic load testing (DDOS) for HTTP/S servers",
+  "author": {
+    "name": "vikram ravichandran",
+    "email": "vikram06@ymail.com"
+      };
+   }
+   
